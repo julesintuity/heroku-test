@@ -1,2 +1,0 @@
-Simple python hello world
-
